@@ -1103,7 +1103,7 @@
 
 "@goshirts-react-custom/core@^0.0.1", "@goshirts-react-custom/core@file:/Users/adaobjr/Desktop/goshirts-react-custom/packages/core":
   "resolved" "file:packages/core"
-  "version" "0.0.1"
+  "version" "1.0.0"
 
 "@graphql-tools/graphql-file-loader@^6.0.10":
   "integrity" "sha512-5k2SNz0W87tDcymhEMZMkd6/vs6QawDyjQXWtqkuLTBF3vxjxPD1I4dwHoxgWPIjjANhXybvulD7E+St/7s9TQ=="
