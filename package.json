@@ -1,9 +1,6 @@
 {
   "name": "@goshirts-react-custom/root",
-  "engines": {
-    "node": ">6.9.4",
-    "npm": ">4.2.0"
-  },
+  "homepage": "goshirts-react-custom/",
   "version": "1.0.0",
   "private": true,
   "workspaces": [
